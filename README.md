@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tanin 👋
 
-<!--
-**TaninEsfandi/TaninEsfandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer and recent MASc graduate from Concordia University, specializing in LLM systems, NLP, and Document Intelligence.
 
-Here are some ideas to get you started:
+I build AI workflows that transform complex unstructured data into structured, traceable, and reliable outputs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Focus
+
+- Large Language Models and Generative AI
+- Natural Language Processing
+- Document Intelligence and classification
+- LLM evaluation and structured outputs
+- Prompt engineering and responsible AI
+- Human-in-the-loop AI systems
+
+## Technologies
+
+- Python, C++, MATLAB
+- OpenAI API, transformer models, spaCy
+- MLflow, Elasticsearch, AWS S3
+- Knowledge graphs and embedding models
+- Git and JSON validation
+
+## Current Interests
+
+I'm interested in building practical LLM and NLP systems, particularly for Document AI, automated evaluation, and trustworthy AI applications.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/taninesfandi/)
