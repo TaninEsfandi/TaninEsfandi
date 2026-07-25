@@ -17,9 +17,10 @@ I build AI workflows that transform complex unstructured data into structured, t
 
 - Python, C++, MATLAB
 - OpenAI API, transformer models, spaCy
+- LangChain, FastAPI, Pydantic, ChromaDB
 - MLflow, Elasticsearch, AWS S3
 - Knowledge graphs and embedding models
-- Git and JSON validation
+- GitHub, REST APIs
 
 ## Current Interests
 
