@@ -1,6 +1,6 @@
 # Hi, I'm Tanin 👋
 
-I'm an AI Engineer and recent MASc graduate from Concordia University, specializing in LLM systems, NLP, and Document Intelligence.
+I'm an AI Engineer and recent MASc graduate from Concordia University, with experience in LLM systems, NLP, document intelligence, and applied machine learning.
 
 I build AI workflows that transform complex unstructured data into structured, traceable, and reliable outputs.
 
@@ -12,6 +12,8 @@ I build AI workflows that transform complex unstructured data into structured, t
 - LLM evaluation and structured outputs
 - Prompt engineering and responsible AI
 - Human-in-the-loop AI systems
+- Applied Machine Learning and model evaluation
+- Predictive modeling and surrogate modeling
 
 ## Technologies
 
