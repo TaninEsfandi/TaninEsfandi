@@ -19,7 +19,7 @@ I build AI workflows that transform complex unstructured data into structured, t
 
 - Python, C++, MATLAB
 - OpenAI API, Anthropic API, Ollama, transformer models
-- FastAPI, Pydantic, ChromaDB
+- FastAPI, Pydantic, ChromaDB, LangGraph, MCP
 - Elasticsearch, MLflow, AWS S3
 - sentence-transformers, embeddings, vector search
 - XGBoost, LightGBM, scikit-learn
