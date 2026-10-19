@@ -1,33 +1,22 @@
 # Hi, I'm Tanin 👋
 
-I'm an AI Engineer and recent MASc graduate from Concordia University, with experience in LLM systems, NLP, document intelligence, and applied machine learning.
+I'm an AI Engineer and recent MASc graduate from Concordia University.
 
-I build AI workflows that transform complex unstructured data into structured, traceable, and reliable outputs.
+I build LLM systems that transform unstructured documents into structured, traceable, and auditable outputs — RAG pipelines, agentic workflows, and two-pass LLM evaluation.
 
-## Areas of Focus
+## What I work on
 
-- Large Language Models and Generative AI
-- Natural Language Processing
-- Document Intelligence and classification
-- LLM evaluation and structured outputs
-- Prompt engineering and responsible AI
-- Human-in-the-loop AI systems
-- Applied Machine Learning and model evaluation
-- Predictive modeling and surrogate modeling
+- Document intelligence and structured extraction
+- RAG pipelines with cited, auditable answers
+- LangGraph agents with tool-use evaluation
+- LLM evaluation and responsible AI
 
-## Technologies
+## Tech
 
-- Python, C++, MATLAB
-- OpenAI API, Anthropic API, Ollama, transformer models
-- FastAPI, Pydantic, ChromaDB, LangGraph, MCP, Docker
-- Elasticsearch, MLflow, AWS S3
-- sentence-transformers, embeddings, vector search
-- XGBoost, LightGBM, scikit-learn
-- LLM evaluation, structured outputs, human-in-the-loop validation
-- Git, GitHub, REST APIs
+Python · FastAPI · LangGraph · ChromaDB · sentence-transformers · Ollama · Pydantic · Docker · MCP · pytest · GitHub Actions · AWS S3 · XGBoost · scikit-learn
 
-## Current Interests
+## Featured project
 
-I'm interested in building practical LLM and NLP systems, particularly for Document AI, automated evaluation, and trustworthy AI applications.
+**[DocuLens](https://github.com/TaninEsfandi/document-intelligence-pipeline)** — open-source document intelligence platform over FDA adverse-event reports. Four-layer pipeline: RAG with cited answers, two-pass LLM extraction with critic validation, LangGraph ReAct agent (5/5 tool-selection accuracy), and MCP server for Claude Desktop.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/taninesfandi/)
+📫 [LinkedIn](https://www.linkedin.com/in/taninesfandi)
