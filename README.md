@@ -2,7 +2,7 @@
 
 I'm an AI Developer and recent MASc graduate from Concordia University.
 
-I build LLM systems that transform unstructured documents into structured, traceable, and auditable outputs — RAG pipelines, agentic workflows, and two-pass LLM evaluation.
+I build LLM systems that transform unstructured documents into structured, traceable, and auditable outputs: RAG pipelines, agentic workflows, and two-pass LLM evaluation.
 
 ## What I work on
 
